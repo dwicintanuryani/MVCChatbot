@@ -1,0 +1,12 @@
+D:\Project\ChatBotMVC\Framework\bin\Debug\net5.0\Framework.deps.json
+D:\Project\ChatBotMVC\Framework\bin\Debug\net5.0\Framework.dll
+D:\Project\ChatBotMVC\Framework\bin\Debug\net5.0\ref\Framework.dll
+D:\Project\ChatBotMVC\Framework\bin\Debug\net5.0\Framework.pdb
+D:\Project\ChatBotMVC\Framework\obj\Debug\net5.0\Framework.csprojAssemblyReference.cache
+D:\Project\ChatBotMVC\Framework\obj\Debug\net5.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ChatBotMVC\Framework\obj\Debug\net5.0\Framework.AssemblyInfoInputs.cache
+D:\Project\ChatBotMVC\Framework\obj\Debug\net5.0\Framework.AssemblyInfo.cs
+D:\Project\ChatBotMVC\Framework\obj\Debug\net5.0\Framework.csproj.CoreCompileInputs.cache
+D:\Project\ChatBotMVC\Framework\obj\Debug\net5.0\Framework.dll
+D:\Project\ChatBotMVC\Framework\obj\Debug\net5.0\ref\Framework.dll
+D:\Project\ChatBotMVC\Framework\obj\Debug\net5.0\Framework.pdb
